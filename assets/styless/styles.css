@@ -2,7 +2,11 @@
     margin: 0;
     pad: 0;
 }
+.header{
+    margin-top: 20px;
+}
 .search{
+    margin-top: 5px;
     display: flex;
 
 }
@@ -28,4 +32,19 @@ margin-left: -20px;
     margin-top: 5px;
     margin-bottom: 10px;
     margin-left: 5px;
+}
+hr{
+    margin-bottom: 10px;
+}
+.img-hr{
+    margin-top: 15px;
+}
+form{
+    margin-top: 10px;
+}
+input{
+    width: 100px;
+}
+.div-date{
+    margin-top: 5px;
 }
