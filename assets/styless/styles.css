@@ -2,6 +2,12 @@
     margin: 0;
     pad: 0;
 }
+/* for center */
+/* .container{
+    width: 50%;
+    margin: auto;
+
+} */
 .header{
     margin-top: 20px;
 }
@@ -9,6 +15,9 @@
     margin-top: 5px;
     display: flex;
 
+}
+#search{
+    width: 200px;
 }
 
 .fa-solid{
@@ -24,7 +33,7 @@ margin-left: -20px;
 }
 
 .img-panda{
-    height: 400px; 
+    height: 300px; 
     margin-top: 5px;
 
 }
@@ -38,6 +47,7 @@ hr{
 }
 .img-hr{
     margin-top: 15px;
+    background: silver;
 }
 form{
     margin-top: 10px;
@@ -47,4 +57,10 @@ input{
 }
 .div-date{
     margin-top: 5px;
+}
+footer{
+    margin-top: 20px;
+}
+body{
+    margin-left: 5px;
 }
